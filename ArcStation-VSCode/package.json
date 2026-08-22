@@ -1,0 +1,17 @@
+{
+  "name": "arc-station",
+  "displayName": "Arc Station",
+  "description": "Sends active VS Code project information to Arc Station.",
+  "version": "0.0.2",
+  "publisher": "pragadeesh",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "*"
+  ]
+}
